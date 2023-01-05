@@ -1,6 +1,6 @@
 # nibe-uplink-monitor
 
-*WORK IN PROGRESS: Nothing functional here yet*
+WORK IN PROGRESS: *Nothing functional here yet.* Meanwhile, check the links below.
 
 Tools to collect, analyse and visualise NIBE heat pump monitoring data retrieved from api.nibeuplink.com
 
